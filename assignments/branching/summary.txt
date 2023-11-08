@@ -1,0 +1,3 @@
+-- Summary for Branching Topic
+
+Branching is an action that allows the users to create changes in accordance to their needs without having to make those changes in the main branch itself. You could say this is to maintain the stability and single source of truth

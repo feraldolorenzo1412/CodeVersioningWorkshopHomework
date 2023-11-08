@@ -1,0 +1,4 @@
+-- Summary for Merging Topic
+
+Merging is a git command that allows you to compile changes from a certain git branch and then unify them to a single branch (usually the "main" or "master" branch)
+Using the Merge command, coders and developers could create, collaborate and make changes on different branches, each in their own local machine and then consolidate all of those changes into a single branch.
